@@ -24,3 +24,4 @@ pause
 )
 goto init
 pause > nul
+:end

@@ -1,1 +1,1 @@
-goto eof
+::Dummy script

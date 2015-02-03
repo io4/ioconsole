@@ -1,4 +1,4 @@
 @echo off
-setx PATH "%PATH%;%cd%" /M
+setx PATH % cd %;% path %
 echo Done. Press any key to end.
 pause > nul
